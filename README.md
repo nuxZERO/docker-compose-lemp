@@ -5,7 +5,7 @@ The template for using Wordpress with Docker Compose.
 
 ## Installation
 
-- Install `docker-compose up -d`.
+- Install `docker-compose build` and `docker-compose up -d`.
 - Start all container `docker-compose start`.
 - Stop all container `docker-compose stop`.
 - Destry all container `docker-compose down`.
