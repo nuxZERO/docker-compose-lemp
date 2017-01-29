@@ -1,6 +1,6 @@
-# Docker Compose for Wordpress
+# Docker Compose for LEMP stack
 
-The template for using Wordpress with Docker Compose.
+The template for using LEMP stack with Docker Compose.
 
 
 ## Installation
