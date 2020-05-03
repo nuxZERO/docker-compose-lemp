@@ -5,7 +5,7 @@ The template for using LEMP stack with Docker Compose.
 
 ## Installation
 
-- Copy `.env-sample` file and rename it to `.env` you can change values to your config.
+- Copy `.env-sample` file and rename it to `.env`. So, you can change values to your config.
 - Install `docker-compose build` and `docker-compose up -d`.
 - Start all container `docker-compose start`.
 - Stop all container `docker-compose stop`.
