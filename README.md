@@ -20,7 +20,7 @@ The template for using LEMP stack with Docker Compose.
 - mysql
 
 
-## Defalut Database connection
+## Default Database connection
 
 - `DATABASE_NAME=database`
 - `DATABASE_HOST=dockerdb`
