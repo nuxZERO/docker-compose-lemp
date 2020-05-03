@@ -5,6 +5,7 @@ The template for using LEMP stack with Docker Compose.
 
 ## Installation
 
+- Copy `.env-sample` file and rename it to `.env` you can change values to your config.
 - Install `docker-compose build` and `docker-compose up -d`.
 - Start all container `docker-compose start`.
 - Stop all container `docker-compose stop`.
@@ -19,9 +20,9 @@ The template for using LEMP stack with Docker Compose.
 - mysql
 
 
-## Database connection
+## Defalut Database connection
 
 - `DATABASE_NAME=database`
 - `DATABASE_HOST=dockerdb`
 - `USER=root`
-- `PASSWORD=123456`
+- `PASSWORD=root`
